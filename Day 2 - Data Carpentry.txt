@@ -27,3 +27,6 @@ When making changes, you can have 3 versions of the same file: personal, banktel
 	Do we always need github to be open while using R studio?
 
 "Push" to save everything on Github.
+
+New SSH key
+ssh-keygen -t ed25519 -C "mm.ramalho19@outlook.com"
