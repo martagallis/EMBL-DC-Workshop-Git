@@ -1,0 +1,32 @@
+Day 2 - Data Carpentry
+EMBL Heidelberg
+23.01.2024
+
+Versioning with Git - Fotis Psomopoulos
+
+IDE - Integrated Development Environment
+
+Git is a system that allows to keep track of changes (in versions of documents) in an effective way
+
+Each repository on GitHub is an equivalent to a project
+
+Common Creative license or MIT license (supporting open source) 
+https://choosealicense.com/
+
+When in R studio, in top right quadrant, Git tab, if you check boxes, you are telling GitHub to track your changes on that specific file/code/project
+We commit (sutab) to save them.
+We can viw list of commits (changes), in Git tab, History subtab, top right quadrant.
+Diff subtab will tell you the differences of your new written code comparing to the one you had written
+
+If we want to run commands, while doing something else, we open terminal tab on bottom left quadrant
+
+When making changes, you can have 3 versions of the same file: personal, bankteller and vault. Move between staged and unstaged in commit window to check all the versions and choose which one to save/commit.
+
+	Not sure of differences between staged and unstaged, why does staged saves file to git and 	disapears from top right quadrant but unstaged seems to keep it there to be tracked?
+
+	Do we always need github to be open while using R studio?
+
+"Push" to save everything on Github
+
+
+
