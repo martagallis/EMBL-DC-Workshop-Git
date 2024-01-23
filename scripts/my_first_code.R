@@ -18,3 +18,12 @@ weight_kg <- 100
 
 #This is a comment on my script but not a line of code to be read. It is why it is in green
 
+weight_kg <- sqrt(9)
+
+
+
+
+round(3.14159)
+round(3.14159, digits=2)
+
+
