@@ -1,0 +1,33 @@
+Day 2 - Data Carpentry
+EMBL Heidelberg
+23.01.2024
+
+Introduction to R
+Eleonora Mastrorilli
+
+Top left pane - Script writing
+Top right pane - Environment and History
+Bottom right pane - Files, Plots, Help (search commands), Viewer
+Bottom left pane - Console and Terminal, run commands, interactive pane
+
+Never modify original data. Create data_raw to keep the files there. Never override it. New modificed files can be kept in data folder
+
+
+Command: dir.create("fig")  ---> creates folder
+Command: ?dir.create        ---> opens help pane for that specific function
+
+<-                          ---> assign operator, assign a value to an object, shortcut: Alt + -
+
+Object names can't start with a number. Avoid dots. They should be short and self-explanotory. Can't use reserved words (gramatics such as if; or; for; and)
+
+R is case sensitive
+
+#                           ---> comment signaling
+
+A function is a series of commands to be executed as a block
+
+Command: args(function)     ---> show of function arguments
+
+Vector will be a series of objects/values of the same type
+
+Use na.rm inside function to remove NA values
