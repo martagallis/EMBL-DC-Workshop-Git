@@ -2,3 +2,7 @@ Cold and dry, but everything is my favorite colour and it's red and brown.
 The two moons are lovely during the night.
 There are ore stuff to write.
 Now opened some new files on the moons.
+<<<<<<< HEAD
+=======
+This line was added in github.
+>>>>>>> 29cbf22ded2d8935ab0ea87c9c12fbd2977983c9
