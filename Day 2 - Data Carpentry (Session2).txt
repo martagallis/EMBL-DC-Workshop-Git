@@ -31,3 +31,5 @@ Command: args(function)     ---> show of function arguments
 Vector will be a series of objects/values of the same type
 
 Use na.rm inside function to remove NA values
+
+A data frame is the structure designed to contain your data. It is a collection of vectors that make up a column. All the columns need to have the same size.
