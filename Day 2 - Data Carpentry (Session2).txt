@@ -33,3 +33,7 @@ Vector will be a series of objects/values of the same type
 Use na.rm inside function to remove NA values
 
 A data frame is the structure designed to contain your data. It is a collection of vectors that make up a column. All the columns need to have the same size.
+
+Factor type of data only available in R.  Factors are a limited of different values/levels in a column.
+
+Command: summary(vector/factor/table) ---> counts and statistics on data
