@@ -1,0 +1,17 @@
+Day 3 - Data Carpentry
+EMBL Heidelberg
+24.01.2024
+
+Data manipulation with dplyr
+Supriya Khedkar
+
+tidyverse is an additional package that gives you new functions, new organasitional tools, etc.
+Sub-packages dplyr, ggplot, 
+
+surveys %>% 
+  mutate(weight_kg = weight/1000) %>% 
+  View()
+I am adding new columns
+
+Command: group_by(a)    ----> grouping according to a 
+It will consider the different categories within a and will group accordingly)
