@@ -143,9 +143,7 @@ ggplot(
   scale_y_log10() +
   ylab ("Weight (log10)")
 
-# Challenge: make a boxplot + jittered scatterplot of 
-#hindfoot_length by species_id. Boxplot in front of the dots
-#and filled with white
+# Challenge: make a boxplot + jittered scatterplot of hindfoot_length by species_id. Boxplot in front of the dots and filled with white
 
 ggplot(
   data = surveys_complete,
