@@ -1,0 +1,43 @@
+Day 4 - Data Carpentry
+EMBL Heidelberg
+25.01.2024
+
+Data analysis with applications to genomics
+Gaurav Diwan
+
+
+For loop  ---> each value in the vector will be run (with the code insidde curly brakets) as loop 
+
+Full Join will combine every column possible between 2 tables, and fill NA where value is unavailable
+
+Inner Join will combine only the rows that have information on both tables
+
+Left Join will keep table x intact and add only rows from y that have correspondent values available in x rows
+
+Non-finite values warning message ---> log10(0) is -inf, so all 0 values corresponding rows were removed
+
+log10(1) = 0, we can take advantage of this. Or change every value by adding +1 (since in this case the values are so large that 1 will not change the overwall assessment)
+
+Minute is a category in this example so we factor it!
+
+
+
+
+Data analysis with applications to genomics - Principal Component Analysis (PCA)
+Renato Alves
+
+https://setosa.io/ev/principal-component-analysis/
+
+Matrix can only be one type, typically numbers
+
+t() transpose function
+
+F1 help button
+
+ggplot wants tibble for data formats
+
+prcomp
+
+Use PCA as a first screen but it can't tell us significant directly relatable analysis
+
+
